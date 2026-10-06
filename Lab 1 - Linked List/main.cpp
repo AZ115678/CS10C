@@ -1,3 +1,8 @@
+/*
+    Author: Adam Zavala
+    Lab 1: Linked List
+*/
+
 #include <iostream>
 #include <bits/stdc++.h>
 #include "playlist.h"
